@@ -11,6 +11,7 @@ export default function Projects() {
             </p>
             <div className='grid xl:grid-cols-2 grid-cols-1 w-5/6 md:px-16 gap-10'>
                 {projectsData.map(project => <Project 
+                    key={project.id}
                     name={project.name} 
                     description={project.description} 
                     projectImgURL={project.projectImgURL} 

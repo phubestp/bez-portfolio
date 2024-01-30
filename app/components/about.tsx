@@ -12,7 +12,7 @@ export default function About() {
                 <Image src="/img/profile.jpg" fill alt="Picture of the author" objectFit='cover'></Image>
             </div>
             <p className="mt-8 text-lg w-2/3">
-                I'm <b>Phubest Panthong</b> or <b>Bes</b>. I'm a computer science student at Kasetsart University, and I'm interested in
+                I&apos;m <b>Phubest Panthong</b> or <b>Bes</b>. I&apos;m a computer science student at Kasetsart University, and I&apos;m interested in
                 software engineering and artificial intelligence.
             </p>
         </div>
