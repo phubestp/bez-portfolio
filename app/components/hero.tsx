@@ -50,9 +50,6 @@ export default function Hero() {
                 <Tooltip content="LinkedIn" style="dark">
                     <Link href="http://www.linkedin.com/in/phubest-panthong-182537205"><FaLinkedin size={32} /></Link>
                 </Tooltip>
-                <Tooltip content="My Resume" style="dark">
-                    <Link href="/"><IoIosDocument size={32} /></Link>
-                </Tooltip>
             </div>
             <Link href="#About" scroll={true} className="animate-bounce"><MdKeyboardArrowDown size={48} /></Link>
         </div>
