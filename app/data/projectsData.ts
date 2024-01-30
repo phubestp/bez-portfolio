@@ -3,7 +3,7 @@ const projectsData = [
         id: 1,
         name: 'KU จะแจ้ง',
         description: `A program for managing internal complaints within Kasetsart University. It's final project in Software Construction Course.`,
-        projectImgURL: '/project/KUJajang.png',
+        projectImgURL: '/project/KUJaJang.png',
         projectURL: ''
     },
     {
