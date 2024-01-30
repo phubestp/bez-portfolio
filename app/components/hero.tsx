@@ -38,7 +38,7 @@ export default function Hero() {
     return (
         <div className="flex flex-col justify-between items-center w-full m-16 md:py-64 py-24 bg-[url('https://images.unsplash.com/photo-1468657988500-aca2be09f4c6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] border border-white">
             <motion.div {...fadeIn} style={{ opacity }}>
-                <p className="text-center text-xl py-4 italic">Hello. I'm</p>
+                <p className="text-center text-xl py-4 italic">Hello. I&apos;m</p>
             </motion.div>
             <motion.div {...fadeIn} style={{ opacity }}>
                 <h1 className={`text-center lg:text-7xl text-5xl font-bold ${lexend.className}`}>Phubest Panthong</h1>
