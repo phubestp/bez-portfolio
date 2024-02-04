@@ -19,7 +19,7 @@ export default function Skill() {
             <p className="text-center text-6xl p-10 font-bold text-black text-stroke">
                 Skills
             </p>
-            <div className="grid md:grid-cols-5 grid-cols-3 gap-10">
+            <div className="grid md:grid-cols-5 grid-cols-2 gap-10">
                 <div className="border border-white p-5 rounded-lg bg-black hover:bg-[#4E4FEB] transition-all duration-300 ease-in-out">              
                     <Tooltip content="HTML"style="dark">
                         <FaHtml5 size={56} />
