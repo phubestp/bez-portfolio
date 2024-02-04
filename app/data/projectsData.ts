@@ -23,7 +23,7 @@ const projectsData = [
        {
         id: 4,
         name: "Bez's Portfolio",
-        description: `A program for managing internal complaints within Kasetsart University. It's final project in Software Construction Course.`,
+        description: `Bez's Portfolio`,
         projectImgURL: '/project/port.png',
         projectURL: ''
     },
